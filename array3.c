@@ -2,7 +2,7 @@
 void main()
 {
     int A[]={9,6,5,2,4};
-    int temp,i;
+    int temp,i,j;
     for (i=0;i<6;i++)
     {
         for (j=0;j<6;j++)
