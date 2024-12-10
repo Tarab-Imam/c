@@ -5,3 +5,5 @@ In this repository, I will write programs with the help of C.
 
 
 <P> I'll write switch case programs and menu driven programs. </P>
+I will use arrays here.
+I will search and sort the arrays.
